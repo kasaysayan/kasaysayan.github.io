@@ -11,6 +11,8 @@ description: A community archiving and digital humanities hub.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/kasaysayan/kasaysayan.github.io/master/images/library.png
 
+remote_theme: kasaysayan/academic_theme
+
 #
 # Flags below are optional
 #
